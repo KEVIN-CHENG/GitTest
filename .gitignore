@@ -2,7 +2,7 @@
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
-app/src/main/java/project/com/gittest/A.java
+app/src/main/java/project/com/gittest/B.java
 .DS_Store
 /build
 /captures
