@@ -8,7 +8,6 @@ public class A implements Cloneable{
     protected Object clone() throws CloneNotSupportedException {
         return super.clone();
     }
-    int C = 0;
     int m_num = 0;
 
 }
