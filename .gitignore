@@ -6,6 +6,4 @@
 /build
 /captures
 app/app.iml
-app/src/main/java/project/com/gittest/C.java
-app/src/main/java/project/com/gittest/test1.java
 .idea/misc.xml
