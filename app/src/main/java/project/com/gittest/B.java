@@ -3,7 +3,7 @@ package project.com.gittest;
 import android.util.Log;
 
 /**
- * Created by ¤pºñ»¶´Ô on 2015/7/26.
+ * Created by å°ç¶ è¾£æ¤’ on 2015/7/26.
  */
 public class B {
     private A m_a = null;
